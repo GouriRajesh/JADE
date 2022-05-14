@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/drawable/deleteicon.xml" value="0.2703125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/activity_docsscreen.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/activity_foodscreen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/activity_homescreen.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/activity_loginscreen.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/activity_mapscreen.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/activity_paymentscreen.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/activity_showdocsscreen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/activity_signupscreen.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/activity_translatescreen.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/layout/toolbar.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/JADE/app/src/main/res/menu/my_navigation_items.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

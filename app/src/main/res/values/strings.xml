@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">JADE</string>
+    <string name="no_connection">No internet connection! Cannot be translated!</string>
+
+    <string-array name="languages">
+        <item>en</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>hi</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>kn</item>
+        <item>ko</item>
+        <item>pt</item>
+        <item>ru</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>th</item>
+        <item>vi</item>
+        <item>zu</item>
+        <item>pl</item>
+        <item>mr</item>
+        <item>ms</item>
+        <item>ga</item>
+        <item>gu</item>
+    </string-array>
+</resources>
